@@ -1,2 +1,2 @@
 # protein-protein_interactions
-There should be something about algorithm which can predict protein-protein interactions for human interactome.
+There should be something about algorithm which can predict protein-protein interactions for human interactome. As a table with non-interacting proteins was used free source the Negatome Database 2.0 by link http://mips.helmholtz-muenchen.de/proj/ppi/negatome/combined_stringent.html and as a table with interacting proteins was used the one from BioGRID: Home/BioGRID/Release-Archive/BIOGRID-ORGANISM-4.1.190.tab.txt.
